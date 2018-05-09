@@ -1,0 +1,9 @@
+name: SkyBox
+version: 1.0
+author: PrinxIsLeqit
+api: [3.0.0-ALPHA12]
+description: 'ScreenBox,SkyBox'
+main: PrinxIsLeqit\SkyBox\SkyBox
+commands:
+    skybox:
+        description: 'ScreenBox main command'
