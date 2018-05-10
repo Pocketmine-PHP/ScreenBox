@@ -1,4 +1,4 @@
-# ScreenBox
-Screenbox for MCPE Server
+# YoutuberBox
+YoutuberBox for MCPE Server
 
 # Plugin by PrinxIsLeqit & georgianYT
